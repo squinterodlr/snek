@@ -4,8 +4,8 @@ Snek is that snake game you love, in your console.
 
 ## Installation
 
-Use the makefile.
+Run `make`.
 
 ## Usage
 
-Run the output of makefile.
+Run `main.x`.
